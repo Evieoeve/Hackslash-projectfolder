@@ -4,11 +4,14 @@
 
 
 <body>
-
+<h1> We need to have a title </h1>
 
 <p> Hello there! Here's our website </p>
 
-
+<div id="list">
+  <ul>
+    <li> We have two pages: Main page and about page </li>
+    <li> We need to set the style for the CSS </li>
 
 
 </body>
