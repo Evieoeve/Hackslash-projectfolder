@@ -9,3 +9,10 @@ h1 {
   font-family: serif;
 
 }
+
+.img-responsive {
+
+height: 50%;
+width: 50%;
+
+}
