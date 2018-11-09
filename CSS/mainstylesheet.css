@@ -19,5 +19,6 @@ border-style: solid;
 
 }
  body {
+   background-size:cover;
    background: url("Images/cow.jpg");
  }
