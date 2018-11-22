@@ -39,4 +39,19 @@ background-color:white;
 h3{
 
 background-color:white;
+<<<<<<< HEAD
+=======
+
+}
+
+
+
+.jumbotron {
+
+background-image:url("../Images/cow.jpg");
+background-size:cover;
+background-attachment: fixed;
+Min-height: 600px;
+
+>>>>>>> 36951b8b7f4c712ea0e9e1edaa0d15aa24c9fd06
 }
