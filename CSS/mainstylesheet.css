@@ -20,7 +20,7 @@ h1 {
 * {
 
 text-align: center;
-background-color: rgba(192,192,192)
+
 
 }
 
@@ -31,12 +31,10 @@ ul {
 
 
 
-<<<<<<< HEAD
-=======
-background-color:white;
-<<<<<<< HEAD
-=======
->>>>>>> 3345e47a7e0afac1fa6fdda139d57e77aa1c4a68
+head{
+  background-color:white;
+
+}
 
 
 
@@ -48,5 +46,4 @@ background-size:cover;
 background-attachment: fixed;
 Min-height: 600px;
 
->>>>>>> 36951b8b7f4c712ea0e9e1edaa0d15aa24c9fd06
 }
