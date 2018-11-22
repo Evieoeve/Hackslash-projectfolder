@@ -42,3 +42,11 @@ background-color:white;
 
 
 }
+.jumbotron {
+
+background-image:url("../Images/cow.jpg");
+background-size:cover;
+background-attachment: fixed;
+Min-height: 600px;
+
+}
