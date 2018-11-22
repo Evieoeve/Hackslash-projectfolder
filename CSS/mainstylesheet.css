@@ -45,11 +45,14 @@ h3{
 
 background-color:white;
 
-#social-button {}
-.btn-twiter {background:blue; border-color: blue}
-
 }
 
+<<<<<<< HEAD
+#btn-facebook {color:white;}
+#social-buttons button {
+    color: blue;
+  }
+=======
 .jumbotron {
 
 background-image:url("../Images/cow.jpg");
@@ -58,3 +61,4 @@ background-attachment: fixed;
 Min-height: 600px;
 
 }
+>>>>>>> 88f43f524372e491b5d44e353c99ccd90a5b6432
