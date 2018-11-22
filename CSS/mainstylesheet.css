@@ -40,7 +40,9 @@ h3{
 
 background-color:white;
 
-#social-button {}
-.btn-twiter {background:blue; border-color: blue}
-
 }
+
+#btn-facebook {color:white;}
+#social-buttons button {
+    color: blue;
+  }
