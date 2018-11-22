@@ -6,8 +6,14 @@ h1 {
   font-weight: bold;
   text-align:center;
   font-family: serif;
-
 }
+
+body {
+      background-image: url("Images\cow.jpg");
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+    }
 
 .display {
   display: block;
@@ -20,8 +26,7 @@ h1 {
 * {
 
 text-align: center;
-background-color: rgba(192,192,192)
-
+background-color: rgba(192,192,192);
 }
 
 ul {
@@ -42,7 +47,18 @@ background-color:white;
 
 }
 
+<<<<<<< HEAD
 #btn-facebook {color:white;}
 #social-buttons button {
     color: blue;
   }
+=======
+.jumbotron {
+
+background-image:url("../Images/cow.jpg");
+background-size:cover;
+background-attachment: fixed;
+Min-height: 600px;
+
+}
+>>>>>>> 88f43f524372e491b5d44e353c99ccd90a5b6432
